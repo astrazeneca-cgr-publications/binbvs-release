@@ -3,7 +3,7 @@
 **Binary-valued Bayesian variable selection**
 
 A python tool for performing Bayesian variable selection in a classification model for observations with binary features, applied primarily to rare-variant gene-level collapsing data from UK Biobank.
-Demonstrated on dataset of ~400k observations and ~20k features.
+Demonstrated on a synthetic binary-valued dataset.
 
 Dependencies:
 ```
